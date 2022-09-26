@@ -1,0 +1,29 @@
+{
+  "name": "web-browser-automation",
+  "version": "1.0.0",
+  "description": "An example of web browser automation with cypress and a page object model",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deefex-test-automation/web-browser-automation.git"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "cypress",
+    "browser"
+  ],
+  "author": "Del Dewar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deefex-test-automation/web-browser-automation/issues"
+  },
+  "homepage": "https://github.com/deefex-test-automation/web-browser-automation#readme",
+  "dependencies": {
+    "cypress": "^10.8.0",
+    "typescript": "^4.8.3"
+  }
+}

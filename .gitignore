@@ -1,0 +1,25 @@
+# Webstorm
+.idea/
+
+# node_modules
+node_modules
+
+# Cypress
+cypress/videos
+cypress/screenshots
+cypress/results
+cypress/reports
+
+# vs code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
