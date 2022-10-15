@@ -26,3 +26,6 @@ It hopefully illustrates some elements and techniques, such as:
 - `npm run cy` (Open the cypress dashboard)
 - `npm run cy:e2e:chrome` (Run headless with chrome)
 - `npm run cy:e2e:firefox` (Run headless with firefox)
+
+## Open Issues
+- Do not show tsconfig.json warning in terminal for TS projects without tsconfig.json https://github.com/cypress-io/cypress/issues/21805
